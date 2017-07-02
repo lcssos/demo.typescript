@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outFile": "./built/tsc.js",
+    "sourceMap": true
+  },
+  "files": [
+    "1.基础类型.ts",
+    "2.变量声明.ts",
+    "3.接口.ts"
+  ]
+}
